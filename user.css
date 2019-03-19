@@ -1,0 +1,92 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+  }
+  .navbar {
+    background-color: #054268;
+    color: white;
+    padding: 5px;
+  }
+  #link {
+    display: inline;
+    padding: 5px;
+  }
+  #link:hover {
+    background-color: white;
+    color: #02798b;
+    cursor: pointer;
+  }
+
+  .links {
+    text-align: right;
+  }
+
+  #logout:hover{
+      background-color: white;
+      color: #02798b;
+      cursor: pointer;
+  }
+
+  .details {
+      background-color:#4e4b5b;
+      padding: 20px;
+  }
+
+  #img{
+      border-radius: 50px;
+      box-shadow: 5px 5px 15px black;
+  }
+
+  .profile-pic{
+      display:inline;
+  }
+
+  .titles{
+      display:inline-block;
+  }
+
+  blockquote{
+      float: right;
+      width: 275px;
+      font-size 130%;
+      font-size: italic;
+      font-family: Georgia, Times, serif;
+      margin: 0px 0px 10px 10px;
+      padding: 10px;
+      border-top: 1px solid #665544;
+      border-bottom: 1px solid #665544;
+  }
+
+  .art{
+      float: left;
+      width: 620px;
+      margin: 10px;
+  }
+
+  article {
+    position: relative;
+    top: 10px;
+    left: 100px;
+    width: 450px;
+  }
+
+  footer{
+    position: relative;
+    top: 10px;
+    left: 100px;
+    width: 450px;
+  }
+  
+.article{
+  box-shadow: 5px 5px 15px black;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 20px;
+  padding: 20px;
+
+}
+
+#title{
+  color: black;
+}
